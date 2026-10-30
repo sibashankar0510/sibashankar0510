@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sibashankar 👋
 
-<!--
-**sibashankar0510/sibashankar0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in **Cybersecurity, Networking, and Python Programming**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning new technologies and building beginner-friendly projects to improve my technical skills.
+
+### Skills & Technologies
+- Python Programming
+- Cybersecurity Fundamentals
+- Computer Networking
+- Git & GitHub
+
+### My Projects
+- **Password Strength Checker** – A Python tool that checks password strength and provides security suggestions.
+- **Caesar Cipher** – A Python project for text encryption and decryption.
+
+### Currently Learning
+- Cybersecurity Fundamentals
+- Networking Concepts
+- Python for Security
+
+### Connect With Me
+- GitHub: [@sibashankar0510](https://github.com/sibashankar0510)
+
+---
+
+*Learning, building, and improving every day.*
